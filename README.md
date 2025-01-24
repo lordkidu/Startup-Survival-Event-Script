@@ -27,7 +27,10 @@ This script introduces a fully customizable survival event where rules are suspe
 ---
 
 #### **Requirements:**  
-- Optional: **OX Inventory** (for advanced inventory integration).  
+**OkokNotify** (Optional) 
+**ESX Framework** 
+**Ox Inventory** (Optional) 
+**xsound**  
 
 ---
 
@@ -53,5 +56,6 @@ This script introduces a fully customizable survival event where rules are suspe
 
 Add a new level of excitement to your server with this survival event script. Customize it, and let the chaos begin!  
 
-
 **Support:** Reply to this thread or contact us for assistance!
+
+## **Players lose the weapons you choose for the purge, so be careful!**
