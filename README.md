@@ -33,7 +33,7 @@ This script introduces a fully customizable survival event where rules are suspe
 
 #### **Installation:**  
 1. Download the script and place it in your server's resources folder.  
-2. Add `ensure your_script_name` to your `server.cfg`.  
+2. Add `Startup-Survival-Event-Script` to your `server.cfg`.  
 3. Configure the script via the included `config.lua` file to suit your server's needs.  
 
 ---
@@ -53,5 +53,5 @@ This script introduces a fully customizable survival event where rules are suspe
 
 Add a new level of excitement to your server with this survival event script. Customize it, and let the chaos begin!  
 
-**Download:** [Insert your download link here]  
+
 **Support:** Reply to this thread or contact us for assistance!
