@@ -1,61 +1,47 @@
-#### **Description:**  
-This script introduces a fully customizable survival event where rules are suspended, and players compete to survive and dominate. Perfect for servers looking to add a high-intensity, lawless gameplay mode!  
+
+#### **Overview:**  
+This script introduces a high-intensity survival event where players fight to stay alive in a lawless environment. Administrators can fully control the event, and players must strategize, find supplies, and survive until the end.  
 
 ---
 
-#### **Features:**  
-- **Admin Controls:**  
-  - `/purge` - Activates the event.  
-  - `/startpurge` - Begins the main phase.  
-  - `/endpurge` - Ends the event and restores normal gameplay.  
+### **Features:**  
 
-- **Player Participation:**  
-  - `/joinpurge` - Allows players to join the event during the pre-event phase.  
+✅ **Admin Commands:**  
+- `/purge` - Activates the event.  
+- `/startpurge` - Starts the survival phase.  
+- `/endpurge` - Ends the event and resets the server to normal gameplay.  
 
-- **Supply Drops:**  
-  - Planes drop crates containing weapons and ammo at randomized, marked locations.  
-  - Players can interact with crates to collect supplies.  
+✅ **Player Participation:**  
+- `/joinpurge` - Allows players to enter the event before it begins.  
 
-- **Dynamic Gameplay Elements:**  
-  - Red zones and map markers dynamically update to guide players to key areas.  
-  - Players are teleported to the event zone upon joining the event.  
+✅ **Loot Crates:**  
+- Weapon crates spawn at predefined locations during the event.  
+- Players can interact with them to collect weapons and ammo.  
 
-- **Customizable Configuration:**  
-  - Easy-to-edit settings for rewards, crate spawn intervals, notifications, and more.  
-  - Compatible with or without OX Inventory.  
+✅ **Dynamic Gameplay:**  
+- Players are teleported to the event zone when joining.  
+- Red zones and map markers dynamically update to guide players.  
 
----
+✅ **Customizable Settings:**  
+- Adjustable weapon loadouts, notifications, and event timing.  
+- Works with or without **OX Inventory**.  
 
-#### **Requirements:**  
-**OkokNotify** (Optional) 
-**ESX Framework** 
-**Ox Inventory** (Optional) 
-**xsound**  
+⚠ **Important:** Players will lose the weapons assigned for the event. Choose your loadout wisely!  
 
 ---
 
-#### **Installation:**  
-1. Download the script and place it in your server's resources folder.  
-2. Add `Startup-Survival-Event-Script` to your `server.cfg`.  
-3. Configure the script via the included `config.lua` file to suit your server's needs.  
+### **Requirements:**  
+**OX Inventory** (optional)
+
+**ESX Framework**
+
+**Xsound**
+
+**Cayo Perico**
+
+**Okok Notify** (Optional)
 
 ---
 
-#### **Showcase:**  
-- **Admin Commands:**  
-  Control the event with simple commands.  
-  Example: `/purge` to activate the survival event.  
-
-- **Intense Gameplay:**  
-  Players must strategize, find supplies, and survive the chaos.  
-
-- **Reward System:**  
-  Grant players weapons and resources for participating and succeeding.  
-
----
-
-Add a new level of excitement to your server with this survival event script. Customize it, and let the chaos begin!  
-
-**Support:** Reply to this thread or contact us for assistance!
-
-## **Players lose the weapons you choose for the purge, so be careful!**
+### **Why Use This Script?**  
+This script adds an exciting and fully configurable survival event to your FiveM server. Whether you're looking for an intense PvP experience or a unique server-wide event, this system provides everything needed for a balanced and immersive gameplay experience.  
