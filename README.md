@@ -47,3 +47,5 @@ This script introduces a high-intensity survival event where players fight to st
 This script adds an exciting and fully configurable survival event to your FiveM server. Whether you're looking for an intense PvP experience or a unique server-wide event, this system provides everything needed for a balanced and immersive gameplay experience.  
 
 For admin command: add_ace identifier.steam:[SteamID] purge allow
+
+Discord: https://discord.gg/WP44YxqXqH
